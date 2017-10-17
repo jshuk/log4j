@@ -1,0 +1,7 @@
+08:45:33.077 [main] INFO  alpha.demo1 - site open
+08:45:36.257 [main] INFO  alpha.demo1 - clicked on button
+08:45:36.291 [main] INFO  alpha.demo1 - Are you sure you want to give us the deed to your house?
+08:45:36.336 [main] INFO  alpha.demo1 - Accepted the alert
+08:45:36.336 [main] FATAL alpha.demo1 - If any fatal error
+08:45:36.336 [main] ERROR alpha.demo1 - If any Error 
+08:45:36.336 [main] DEBUG alpha.demo1 - Debugging
